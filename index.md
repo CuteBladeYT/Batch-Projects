@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Batch Projects
+###### by [UnitedCatdom](https://github.com/CuteBladeYT)
 
-You can use the [editor on GitHub](https://github.com/CuteBladeYT/Batch-Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My Batch projects I made because I was bored :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------------
 
-### Markdown
+### Code Generator
+##### This generates XXXX-XXXX-XXXX-XXXX Code
+##### Everytime you click any button
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+------------
 
-```markdown
-Syntax highlighted code block
+Here is the code of it or view it on GitHub [![](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://github.com/CuteBladeYT/Batch-Projects/blob/main/Code%20Generator.bat)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CuteBladeYT/Batch-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	@echo off
+    title Code Generator
+    color 0F
+    
+    :loop
+    cls
+    set /a rng1=%random% * 9999 / 32768 + 1000
+    set /a rng2=%random% * 9999 / 32768 + 1000
+    set /a rng3=%random% * 9999 / 32768 + 1000
+    set /a rng4=%random% * 9999 / 32768 + 1000
+    
+    echo.
+    echo   %rng1%-%rng2%-%rng3%-%rng4%
+    echo.
+    echo.
+    echo.
+    echo  Press any button to re-generate code
+    pause >> nul
+    goto loop
