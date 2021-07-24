@@ -3,15 +3,20 @@
 
 My Batch projects I made because I was bored :)
 
+
 ------------
 
-### Code Generator
+- [Code Generator](### Code Generator   )
+
+------------
+
+### Code Generator  
 ##### This generates XXXX-XXXX-XXXX-XXXX Code
 ##### Everytime you click any button
 
 ------------
 
-Here is the code of it or view it on GitHub [![(https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://github.com/CuteBladeYT/Batch-Projects/blob/main/Code%20Generator.bat)
+Here is the code of it or view it on GitHub [![](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://github.com/CuteBladeYT/Batch-Projects/blob/main/Code%20Generator.bat)
 
 	@echo off
     title Code Generator
