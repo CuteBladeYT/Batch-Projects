@@ -11,7 +11,7 @@ My Batch projects I made because I was bored :)
 
 ------------
 
-Here is the code of it or view it on GitHub [![](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://github.com/CuteBladeYT/Batch-Projects/blob/main/Code%20Generator.bat)
+Here is the code of it or view it on GitHub [![(https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://i.ibb.co/51pSTTn/Git-Hub-Mark-120px-plus.png)](https://github.com/CuteBladeYT/Batch-Projects/blob/main/Code%20Generator.bat)
 
 	@echo off
     title Code Generator
