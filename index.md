@@ -6,8 +6,8 @@ My Batch projects I made because I was bored :)
 
 ------------
 
-- [Code Generator](### Code Generator   )
-- [L](# L  )
+- [Code Generator](Code Generator)
+- [L](L)
 
 ------------
 
