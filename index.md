@@ -7,6 +7,7 @@ My Batch projects I made because I was bored :)
 ------------
 
 - [Code Generator](### Code Generator   )
+- [L](# L  )
 
 ------------
 
@@ -37,3 +38,5 @@ Here is the code of it or view it on GitHub [![](https://i.ibb.co/51pSTTn/Git-Hu
     echo  Press any button to re-generate code
     pause >> nul
     goto loop
+
+# L  
